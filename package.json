@@ -1,6 +1,6 @@
 {
-  "homepage": "https://AatirMed.github.io/weather-access-city",
-  "name": "weather-access-city",
+  "homepage": "https://AatirMed.github.io/todo-medium",
+  "name": "todo-medium",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.10.9",
     "@mui/material": "^5.10.12",
-    "@primer/octicons-react": "^17.9.0",
+    "@primer/octicons-react": "^17.10.0",
     "@react-icons/all-files": "^4.1.0",
     "@reduxjs/toolkit": "^1.8.6",
     "@sentry/react": "^7.18.0",
@@ -67,6 +67,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "css-loader": "^6.7.3",
+    "gh-pages": "^4.0.0",
+    "style-loader": "^3.3.1"
   }
 }
