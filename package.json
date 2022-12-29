@@ -1,6 +1,6 @@
 {
-  "homepage": "https://AatirMed.github.io/todo-medium",
-  "name": "todo-medium",
+  "homepage": "https://AatirMed.github.io/weather-access-city",
+  "name": "weather-access-city",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
