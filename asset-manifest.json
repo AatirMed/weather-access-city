@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weather-access-city/static/css/main.c6384ed4.css",
-    "main.js": "/weather-access-city/static/js/main.063bc387.js",
-    "static/js/787.5e36e229.chunk.js": "/weather-access-city/static/js/787.5e36e229.chunk.js",
-    "index.html": "/weather-access-city/index.html",
-    "main.c6384ed4.css.map": "/weather-access-city/static/css/main.c6384ed4.css.map",
-    "main.063bc387.js.map": "/weather-access-city/static/js/main.063bc387.js.map",
-    "787.5e36e229.chunk.js.map": "/weather-access-city/static/js/787.5e36e229.chunk.js.map"
+    "main.css": "/todo-medium/static/css/main.17d5e21f.css",
+    "main.js": "/todo-medium/static/js/main.0b1f5d07.js",
+    "static/js/787.2720b934.chunk.js": "/todo-medium/static/js/787.2720b934.chunk.js",
+    "index.html": "/todo-medium/index.html",
+    "main.17d5e21f.css.map": "/todo-medium/static/css/main.17d5e21f.css.map",
+    "main.0b1f5d07.js.map": "/todo-medium/static/js/main.0b1f5d07.js.map",
+    "787.2720b934.chunk.js.map": "/todo-medium/static/js/787.2720b934.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6384ed4.css",
-    "static/js/main.063bc387.js"
+    "static/css/main.17d5e21f.css",
+    "static/js/main.0b1f5d07.js"
   ]
 }
